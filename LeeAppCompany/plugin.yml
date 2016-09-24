@@ -1,0 +1,10 @@
+﻿name: LeeAppCompany
+main: leeapp.company.LeeAppCompany
+author: LeeApp
+version: "2.0.0"
+api: ["1.0.0"]
+commands:
+ 회사: 
+  description: 회사 명령어
+ 회사관리: 
+  description: 회사관리 명령어
